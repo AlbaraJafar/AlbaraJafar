@@ -9,17 +9,19 @@
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)](https://huggingface.co/Albaraajaafar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albarajaafar@gmail.com)
 ---
-### 🔥 Right Now
+### 🔥 Right Now September 2026
 
-- 🏗️ Building **Q-Brain Mini** — multi-agent visitor intelligence on Google Cloud
-- 📚 Preparing **Google Cloud Professional ML Engineer** certification  
-- 🔬 Migrating **Mysora** to Vertex AI + Cloud Run
-- 📝 Writing research paper on Arabic Sign Language Recognition
+- 🏗️ Migrating Mysora from FastAPI/Railway to Cloud Run + Supabase, adding auth-aware LLM abstraction layer
+- 🏆 Competing on Kaggle
+- 🌍 Contributing to major open-source AI libraries
+- ✍️ Writing a technical blog — real experiments, real failures, launching in 2 months
+- 🤝 Networking at LEAP 2026
+
 ### 🏗️ What I Build
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [Mysora](https://mysora.app) | First Arabic Sign Language AI for Quranic recitation | 🟢 Live |
+| [Mysora] | First Arabic Sign Language AI for Quranic recitation | 🟢 Live |
 | Q-Brain Mini | Multi-agent visitor intelligence — Gemini + LangGraph + GCP | 🔨 Building |
 | Arabic RAG Pipeline | LLM reporting system deployed at Ministry of Education — 20,000+ schools | ✅ Shipped |
 | SGS Triage System | Real-time AI incident triage on live airport data — Azure | 🔨 In Progress |
