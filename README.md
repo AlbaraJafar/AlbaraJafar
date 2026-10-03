@@ -5,26 +5,17 @@
 >  *shipped a live Arabic sign language app for deaf Muslims learning Quranic recitation.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/albaraa-jaafar-1215aa231)
-[![Mysora](https://img.shields.io/badge/🎯_Mysora_Live-00C9A7?style=flat)](https://mysora.app)
+[![Mysora](https://img.shields.io/badge/🎯_Mysora_Live-00C9A7?style=flat)](https://web-production-f302c9.up.railway.app/)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat)](https://huggingface.co/Albaraajaafar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:albarajaafar@gmail.com)
 ---
-### 🔥 Right Now September 2026
-
-- 🏗️ Migrating Mysora from FastAPI/Railway to Cloud Run + Supabase, adding auth-aware LLM abstraction layer
-- 🏆 Competing on Kaggle
-- 🌍 Contributing to major open-source AI libraries
-- ✍️ Writing a technical blog — real experiments, real failures, launching in 2 months
-- 🤝 Networking at LEAP 2026
 
 ### 🏗️ What I Build
 
 | Project | Description | Status |
 |---------|-------------|--------|
 | [Mysora] | First Arabic Sign Language AI for Quranic recitation | 🟢 Live |
-| Q-Brain Mini | Multi-agent visitor intelligence — Gemini + LangGraph + GCP | 🔨 Building |
 | Arabic RAG Pipeline | LLM reporting system deployed at Ministry of Education — 20,000+ schools | ✅ Shipped |
-| SGS Triage System | Real-time AI incident triage on live airport data — Azure | 🔨 In Progress |
 
 ---
 
@@ -34,7 +25,7 @@
 - 🥇 **1st Place** — Madinah Dates Hackathon, awarded by HRH Prince Salman bin Sultan
 - 🎯 **Top 27 of 1,000+** — Misk Innovation Diwan
 - 🎓 **Graduation Speaker** before HRH Prince Salman bin Sultan, University of Prince Mugrin
-- 🚀 **Misk Foundation Recommended** — Qiddiya PlayForward GDP, Technology Track 2026
+- 🚀 **Misk Foundation Recommended** — Technology Track 2025
 
 ---
 
@@ -42,8 +33,8 @@
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
-| 🟠 AWS Certified Machine Learning Engineer – Associate | Amazon Web Services | 2024 |
-| 🔵 Agentic AI Bootcamp | Tuwaiq Academy | 2025 |
+| 🟠 AWS Certified Machine Learning Engineer – Associate | Amazon Web Services | 2026 |
+| 🔵 Agentic AI Bootcamp | Tuwaiq Academy | 2026 |
 | 🔴 Google Data Analytics Professional Certificate | Google | 2024 |
 | 🟡 Improving Deep Neural Networks | DeepLearning.AI | 2024 |
 | 🟡 Structuring Machine Learning Projects | DeepLearning.AI | 2024 |
@@ -57,7 +48,7 @@
 | IT & Automation Engineer | Saudi Ground Services | Real-time AI triage · Azure Copilot across 28 airports |
 | Generative AI Engineer | Ministry of Education (Misk Tamheer) | LLM + RAG pipelines · 20,000+ schools · 16 regions |
 | Co-founder & AI Lead | Mysora | Live Arabic sign language AI · Production deployed |
-| Co-founder & AI Lead | Qatmeer | Computer vision · 1st place hackathon winner |
+| Co-founder & AI Lead | Qatmeer | Computer vision · 1st place hackathon winner(raised funding 150K SR) |
 
 ---
 
