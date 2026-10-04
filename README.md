@@ -2,7 +2,7 @@
 # البراء جعفر | Albaraa Jaafar
 
 *> *Built AI systems covering 20,000+ schools and potentially 1M+ students across Saudi Arabia.*  
->  *shipped a live Arabic sign language app for deaf Muslims learning Quranic recitation.*
+>  *shipped a live Arabic sign language app for deaf Muslims learning Quranic recitation.* 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/albaraa-jaafar-1215aa231)
 [![Mysora](https://img.shields.io/badge/🎯_Mysora_Live-00C9A7?style=flat)](https://web-production-f302c9.up.railway.app/)
